@@ -1097,8 +1097,8 @@ Then open a Pull Request.
 
 When contributing:
 
-* Keep modules separated by responsibility.
-* Prefer modern C++ practices.
+* Keep modules separated by responsibility
+* Prefer modern C++ practices
 * Avoid destructive operations in automated tests.
 * Test storage operations using disposable devices.
 * Document hardware-specific behavior.
